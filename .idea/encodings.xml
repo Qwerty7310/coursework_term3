@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/file.txt" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/input_from_file.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/input_from_keyboard.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/input_from_keyboard.h" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/output_to_file.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/print_DB.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/regex.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/regex.h" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/selection_according_to_conditions.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/selection_according_to_conditions.h" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/sort.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/struct_exam.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/struct_exam.h" charset="IBM866" />
+    <file url="PROJECT" charset="IBM866" />
+  </component>
+</project>

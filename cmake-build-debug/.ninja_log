@@ -1,0 +1,20 @@
+# ninja log v5
+5	3400	7245596364689538	CMakeFiles/course_work_2.dir/struct_exam.cpp.obj	5bb97566074f5806
+3	3385	7245596364501367	CMakeFiles/course_work_2.dir/main.cpp.obj	8815b2f95d4bc700
+10	3413	7245596364832290	CMakeFiles/course_work_2.dir/input_from_file.cpp.obj	95da8f98bd34a713
+7	4190	7245596372360732	CMakeFiles/course_work_2.dir/regex.cpp.obj	f71e2adc50ef5d03
+14	3282	7245596363487347	CMakeFiles/course_work_2.dir/input_from_keyboard.cpp.obj	ca17d40e83d7d743
+3381	5553	7245596386229775	CMakeFiles/course_work_2.dir/selection_according_to_conditions.cpp.obj	908421f1b13a67c9
+3283	5566	7245596386369304	CMakeFiles/course_work_2.dir/sort.cpp.obj	acae5729a5f7c2ae
+12	3381	7245596364511305	CMakeFiles/course_work_2.dir/print_DB.cpp.obj	f27b367f8ef74346
+16	6495	7244488947198982	CMakeFiles/course_work_2.dir/controller.cpp.obj	fd2c0325e1996010
+5629	6493	7245596395570275	course_work_2.exe	4cbc5134faaa5375
+1	169	7245597504201555	build.ninja	5acdb0e3d88d77c2
+3385	5629	7245596387011928	CMakeFiles/course_work_2.dir/output_to_file.cpp.obj	3607e43c4704a890
+4	1539	7245599431731589	CMakeFiles/course_work_2.dir/output_to_file.cpp.obj	3607e43c4704a890
+1539	2320	7245599439492418	course_work_2.exe	4cbc5134faaa5375
+6	2293	7245992159988346	CMakeFiles/course_work_2.dir/struct_exam.cpp.obj	5bb97566074f5806
+2293	3458	7245992171591591	course_work_2.exe	4cbc5134faaa5375
+5	1824	7246287312964743	CMakeFiles/course_work_2.dir/main.cpp.obj	8815b2f95d4bc700
+11	1825	7246287312955770	CMakeFiles/course_work_2.dir/input_from_file.cpp.obj	95da8f98bd34a713
+1825	2676	7246287321442962	course_work_2.exe	4cbc5134faaa5375
